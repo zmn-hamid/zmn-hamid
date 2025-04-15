@@ -8,5 +8,3 @@ This is essentially the reason why I've chosen to become a game developer.
 - <b>Fast learer</b>
 - <b>Self-taught</b>
 - Animal enthusiast :D
-
-You can find all my links here: [https://linktr.ee/Kyrovert_](https://linktr.ee/Kyrovert_)
