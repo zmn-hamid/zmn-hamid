@@ -7,7 +7,7 @@ One might know me by many things:
 - <b>Telegram bot programmer</b> - solo developer behind Telegram's best unknown message bot: @ChevaletBot
 - <b>Game Developer</b> - spoiler: This is actually what I'm doing full time right now :)
 - <b>Graphic Designer & Digital Artist</b> - you can check my 3D and 2D arts 
-    in my linktree bellow (artstation)
+    in my linktree page bellow (in artstation)
 - Animal enthusiast and so on :D
 
 ### my_career_personality
@@ -19,10 +19,10 @@ This is essentially the reason why I've chosen to become a game developer.
 
 This trait makes me a fast learner and fast forgetter. Meaning I learn the things
 I want/need to, fast enough, but forget my physical needs fast enough as well :)
-Quick note: I've managed to handle it. Said that for the sake of impactfullness :D
+Quick note: I've managed to handle it. Said that for the sake of impact :D
 
 Oh did I mention? I'm self-taught. I've learned everything I know from the internet.
-None of my majors did anything for me (talking computer science and graphic design (current one))
+None of my majors did anything for me (talking about computer science and graphic design (current one))
 
 ### my_links
 
