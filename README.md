@@ -6,7 +6,7 @@ My other skills:
     I have a bunch of other bots and automation projects done with python
 - Visual artist: graphic designer, digital artist, collage artist, ...
 
-What am I:
+I am:
 - Self-taught
 - A Fast Learner
 - An animal enthusiast :D
