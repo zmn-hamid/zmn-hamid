@@ -10,7 +10,7 @@
   - I have worked with **automation tools** (Selenium, Scrapy, ...) for numerous personal or requested purposes
   - I am a professional **telegram bot** programmer. The developer behind Telegram's **best** [unknown message bot](https://t.me/Chevalet_bot)
   - I have worked with **3rd party APIs** over these years (telegram, spotify, soundcloud, yfinance, ...)
-  - I am a general **tool programmer** as well. Have used python numerous times to create small automation tasks for myself, either for personal or work related tasks.
+  - I am a general **tool programmer** as well. Have used python numerous times to create small automation tasks for myself and others, either for personal or work related tasks.
 - **Python + Godot game engine**:
   - I have used both to create a local text-share app call [**Local Fetch**](https://github.com/zmn-hamid/LocalFetch) (to share text locally between my devices)
 - **Graphic Design**:
