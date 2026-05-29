@@ -1,27 +1,45 @@
-#### Who Am I / What I Know
-- **Python** programmer of 5+ years
-- Game dev, **Unity** programmer
-- I know **the essentials of programming**: git & github, database (MySQL, PostgreSQL, ...), best practices of programming, design patterns, ...
-- **Graphic designer** of around 4 years: extensive knowledge in Photoshop, Illustrator, Figma, Premiere, ...
-- I'm a **fast learner** :)
+# About Me
 
-#### Resume
-- **Python**:
-  - I have worked with **automation tools** (Selenium, Scrapy, ...) for numerous personal or requested purposes
-  - I am a professional **telegram bot** programmer. The developer behind Telegram's **best** [unknown message bot](https://t.me/Chevalet_bot)
-  - I have worked with **3rd party APIs** over these years (telegram, spotify, soundcloud, yfinance, ...)
-  - I am a general **tool programmer** as well. Have used python numerous times to create small automation tasks for myself and others, either for personal or work related tasks.
-- **Python + Godot game engine**:
-  - I have used both to create a local text-share app call [**Local Fetch**](https://github.com/zmn-hamid/LocalFetch) (to share text locally between my devices)
-- **Graphic Design**:
-  - A couple of **logo design** and **branding** for customers
-  - 1+ years working with PGPS as graphic designer
-  - I have leveraged **ComfyUI** using python to generate suitable images that help with my designs
-- **Game Dev**
-  - Member of Big Beak Studio, currently working on **The Holy Tree Wars** and **Abyrix** (as of Oct 2025)
+- Senior **programmer** who loves **art** - a **technical artist** sometimes
+- **Fast learner**
+- Animal enthusiast :D
 
-#### I also
-- have knowledge in many other languages/frameworks & tools: Javascript, Typescript, C++, Golang, React, Django, Lua, ...
-- am a digital artist
-- do collage art
-- am a animal enthusiast :D
+## Expertise
+
+### Game Dev
+- **Unity** / Godot
+- **Adobe** Photoshop
+- Basic knowledge in **Blender**, **Substance Painter**, **Asprite** and more
+
+### programming
+  - **Dev Essentials**: git, docker, database, migration tools, best practices and design patterns, ...
+  - Automation / web scrapping / bot development
+  - I make utility tools with python for any project I work on.
+
+### Web Dev
+- React / Vite / Typescript
+- Express / Typescript
+- Prisma, ...
+
+### Languages
+  - Python, JS/TS, C#, GDScript
+  - Familiar with C, C++, Lua, Golang, ...
+
+### Art
+- **Graphic Design** - Logo, Branding, ...
+- **Adobe** products / **Figma** / **Aseprite** / ...
+- Familiar with **shader** design
+- **Collage** artist if you will
+
+## Resume & Portfolio
+- Member at **Big Beak Studio** (developer and co-founder)
+- Graphic Designer and general programmer at **PGPS** company for 1+ year
+- [**Unknown Message Bot**](https://t.me/Chevalet_bot) - Fully featured, best telegram anonymous message bot
+- [**Local Fetch**](https://github.com/zmn-hamid/LocalFetch) - to share text between your devices locally, written with Godot + Python
+
+## Active Projects (May, 2026)
+- **Games**:
+  - **The Holy Tree Wars** and **Abyrix** and more
+- others:
+  - **R6S** radio website
+  - **R6S** music downloader telegram bot
