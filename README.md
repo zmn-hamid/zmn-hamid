@@ -2,17 +2,18 @@ A programmer who loves art, automation and animals.
 
 ## Expertise
 
-Some of the things I know or am familiar with:
+Some of the things I know or am familiar enough with:
 
 | **Game Dev** | **Programming** | **Web Dev** | **Art** |
 |-----------------|--------------------|----------------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="16"/> Unity | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React / Vite | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="16"/> Photoshop |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> Godot | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JS / TS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/> Express | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16"/> Figma |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="16"/> Blender | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="16"/> C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="16"/> Prisma | <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" width="16"/> Aseprite |
-| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" width="16"/> Substance Painter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> GDScript | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Liquidsoap_logo.svg" width="16" /> Liquidsoap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="16"/> Blender |
-| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Icecast_logo_large_2004.svg" width="16"/> Icecast | 🌈 Shader Design |
-| | 🗄️ Databases | | 🎨 Logo & Branding |
-| | 🤖 Automation / Bots | | 🖼️ Collage Art |
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-substance-3d-painter-icon.png" width="16"/> Substance Painter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="16"/> Flutter / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="16"/> Dart | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Liquidsoap_logo.svg" width="16" /> Liquidsoap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="16"/> Blender |
+| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> GDScript | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Icecast_logo_large_2004.svg" width="16"/> Icecast | 🌈 Shader Design |
+| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/> Docker | | 🎨 Logo & Branding |
+| | 🗄️ Databases | | 🖼️ Collage Art |
+| | 🤖 Automation / Bots | | |
 
 ## Showcase
 
