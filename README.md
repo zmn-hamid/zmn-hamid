@@ -1,5 +1,7 @@
 A programmer who loves art, automation and animals.
 
+### Read my book: [A Philosophically Technical View Into Generative AI](https://genai-book.kyrovert.com)
+
 ## Expertise
 
 Some of the things I know or am familiar enough with:
@@ -18,6 +20,7 @@ Some of the things I know or am familiar enough with:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[A Philosophically Technical View Into Generative AI](https://genai-book.kyrovert.com)** | My book about the philosophy of AI and its uses in the industry, especially software engineering |
 | **[ChevaletAnonBot](https://github.com/zmn-hamid/ChevaletAnonBot)** | Feature-rich Telegram bot for anonymous messaging. | Python, Telegram |
 | **[LocalFetch](https://github.com/zmn-hamid/LocalFetch)** | Transfer text between devices over a local network. | Godot, Python |
 | **[Link Cleaner Chrome Extension](https://github.com/zmn-hamid/link-cleaner-chrome-extension)** | Chrome extension to clean urls from x (twitter) and more. | TypeScript, Vite |
