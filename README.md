@@ -20,13 +20,11 @@ Some of the things I know or am familiar enough with:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[A Philosophically Technical View Into Generative AI](https://genai-book.kyrovert.com)** | My book about the philosophy of AI and its uses in the industry, especially software engineering |
 | **[ChevaletAnonBot](https://github.com/zmn-hamid/ChevaletAnonBot)** | Feature-rich Telegram bot for anonymous messaging. | Python, Telegram |
 | **[LocalFetch](https://github.com/zmn-hamid/LocalFetch)** | Transfer text between devices over a local network. | Godot, Python |
 | **[Link Cleaner Chrome Extension](https://github.com/zmn-hamid/link-cleaner-chrome-extension)** | Chrome extension to clean urls from x (twitter) and more. | TypeScript, Vite |
 | **[Spotify Full Album](https://github.com/zmn-hamid/Spotify-Full-Album)** | Finds every release from a Spotify artist. | Python, Spotify API |
 | **[WDebugger](https://github.com/zmn-hamid/WDebugger-A-Git-friendly-Debugger)** | Git-friendly debugging plugin for Godot. | Godot |
-| **[BaseCraft](https://github.com/zmn-hamid/BaseCraft)** | AI-first automation template for non-programmers. | Python, Automation |
 
 ## Resume
 
