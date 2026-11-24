@@ -1,3 +1,3 @@
-A programmer who loves art, automation and animals.
+[A Philosophically Technical View Into Generative AI](https://github.com/zmn-hamid/A-Philosophically-Technical-View-Into-Generative-AI)
 
-But apparently none of that matters anymore, so I'm just a regular dude who can't stay put, not creating.
+[How To Feel Productive As An AI Developer](https://github.com/zmn-hamid/How-To-Feel-Productive-As-An-AI-Developer)
